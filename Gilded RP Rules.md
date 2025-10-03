@@ -45,37 +45,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 # Roleplay over Gunplay
 
-
-## Low-Tier Initiation is Considered RDM
-
-- Any "low-tier initiation"—defined as shooting firearms or using weapons with force without meaningful dialogue or interaction—will be classified as RDM (Random Deathmatch).
-
-## Examples of Low-Tier Initiation (RDM)
-
-- A player walks up to someone and shoots them without prior roleplay.
-
-- A player stabs another without speaking or giving any roleplay context.
-
-- A player fires at someone immediately after saying a single vague line like "You messed up" without further interaction.
-
-- A group ambushes another with weapons and opens fire without any verbal warning or attempt at roleplay.
-
-## What Is NOT Considered RDM
-
-- A player draws their gun and aims it at another in a robbery, giving clear demands (e.g., "Hands up and don’t try anything, or you’ll regret it.").
-
-- A character uses a weapon to threaten or intimidate someone without firing (e.g., pressing a gun against someone’s back and saying, "Let’s take a walk.").
-
-- A conflict escalates naturally through roleplay before violence occurs (e.g., an argument turns into a physical fight, and only after further escalation does a gun get drawn and fired).
-
-- A player shoots in self-defense after another character threatens or initiates violence against them first, only when there is an opportunity to do so (guns are lowered).
-
-## Clarification on Gunplay
-
-- Gunplay should not be the first method of conflict resolution. Characters should attempt meaningful roleplay interactions before resorting to violence, ensuring depth in character interactions and storytelling.
-
-- Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
-
 ## Character Guidelines
 
 - Characters must be 18+, Players must be 18+.
@@ -313,6 +282,37 @@ Here are some examples of RDM or Random DeathMatch
 - Find ways to indicate imminent violence, especially if your weapon is not already drawn and pointed. Some examples of this include using the hand on holster stance, using /me, verbally indicating you may be planning on attacking, moving into cover, etc
 
 - If you have a reason to harm an NPC, roleplay the scene even if no other players are present in the immediate vicinity. This should only be done with the intention of creating roleplay, and as stated above, will likely come with in-character consequences.
+
+## Low-Tier Initiation is Considered RDM
+
+- Any "low-tier initiation"—defined as shooting firearms or using weapons with force without meaningful dialogue or interaction—will be classified as RDM (Random Deathmatch).
+
+## Examples of Low-Tier Initiation (RDM)
+
+- A player walks up to someone and shoots them without prior roleplay.
+
+- A player stabs another without speaking or giving any roleplay context.
+
+- A player fires at someone immediately after saying a single vague line like "You messed up" without further interaction.
+
+- A group ambushes another with weapons and opens fire without any verbal warning or attempt at roleplay.
+
+## What Is NOT Considered RDM
+
+- A player draws their gun and aims it at another in a robbery, giving clear demands (e.g., "Hands up and don’t try anything, or you’ll regret it.").
+
+- A character uses a weapon to threaten or intimidate someone without firing (e.g., pressing a gun against someone’s back and saying, "Let’s take a walk.").
+
+- A conflict escalates naturally through roleplay before violence occurs (e.g., an argument turns into a physical fight, and only after further escalation does a gun get drawn and fired).
+
+- A player shoots in self-defense after another character threatens or initiates violence against them first, only when there is an opportunity to do so (guns are lowered).
+
+## Clarification on Gunplay
+
+- Gunplay should not be the first method of conflict resolution. Characters should attempt meaningful roleplay interactions before resorting to violence, ensuring depth in character interactions and storytelling.
+
+- Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
+
 
 
 # Fast Travel Locations
